@@ -1,0 +1,9 @@
+{
+  "train_dir": "./data/Train",
+  "val_dir": "./data/Val",
+  "test_dir": "./data/Test",
+  "epochs": 30,
+  "batch_size": 32,
+  "lr": 0.001,
+  "chexnet_weights": ""
+}
