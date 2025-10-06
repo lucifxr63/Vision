@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+models/
+artifacts/
+weights/
+*.h5
+*.hdf5
+*.png
+*.pdf
+*.csv
+*.json
